@@ -1,0 +1,2 @@
+Unsupervised learning- Types of Unsupervised Learning, Challenges, Dimensionality Reduction- Principal
+Component Analysis, Clustering - k-Means Clustering, Agglomerative Clustering, DBSCAN

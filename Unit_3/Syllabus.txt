@@ -1,0 +1,3 @@
+Supervised Learning- Classification and Regression, Generalization, Over fitting and under fitting,
+Supervised Machine learning algorithms- K-Nearest Neighbor, Linear models, Naive Bayes Classifiers,
+Decision trees, Random forest

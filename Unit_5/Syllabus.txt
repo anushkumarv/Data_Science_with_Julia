@@ -1,0 +1,3 @@
+Interactive graphics- Visualizing Time Series Data, Moving Bubble Charts to show clustering and
+Distributions, Animation Transition Maps, Interactive Bee swarm Plots, Interactive Heat map, Searchable time
+series Charts

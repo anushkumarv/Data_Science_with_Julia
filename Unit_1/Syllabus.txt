@@ -1,0 +1,2 @@
+Introductions to Data Science- A Statistical Approach, Descriptive statistics, Cumulative distribution
+functions, Continuous distributions, Probability
