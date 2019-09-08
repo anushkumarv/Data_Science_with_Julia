@@ -1,1 +1,18 @@
-Statistics for data science - Operations on distributions, Hypothesis testing, Estimation, Correlation
+Statistics for data science - Operations on distributions, Hypothesis testing, Estimation, Correlation
+Sub topics that are covered 
+===========================
+
+1 - Find out the skewness of a distribution ( add Pearson's median skewness coefficient). 
+2 - Write a class to generate exponential distribution (check if any parameters can be tweaked).
+3 - Calculate PDF of an exponential distribution. Check if it can be derived from CDF.
+4 - Different ways to measure the results of hyposthesis testing.
+	4a - Classical
+	4b - Practical
+	4c - Bayesian 
+5 - Example of Chi Squared test.
+6 - How are MSE and MLE different in helping find the best estimator?
+7 - How can Bayesian estimation be used to calculate confidence intervals?
+8 - Define the statistical significance of correlation and two ways of calculating it.
+9 - Compare Pearson’s correlation with Spearman’s rank correlation.
+10 - Explain how Least Squares Fit can be used to calculate the slope of a relationship.
+11 - Demonstrate the interpretation of a sample R-squared value to determine goodness of fit.

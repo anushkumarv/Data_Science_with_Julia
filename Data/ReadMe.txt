@@ -1,1 +1,1 @@
-This folder will be used for holding our data for all the scripts.
+This folder will contain the data for scripts in different units.
